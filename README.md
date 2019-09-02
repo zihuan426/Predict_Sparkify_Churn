@@ -22,3 +22,6 @@ To replicate the findings and execute the code in this repository you will need 
 - pandas
 - Matplotlib
 - pyspark
+
+### Resource
+Udacity all rights reserved.
